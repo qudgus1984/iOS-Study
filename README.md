@@ -20,5 +20,6 @@ https://qudgus1984.tistory.com/5
 https://qudgus1984.tistory.com/4
 
 - delegate를 이용한 값전달
+
 https://qudgus1984.tistory.com/9
 
