@@ -28,5 +28,5 @@ https://qudgus1984.tistory.com/9
 <h1>아키텍쳐 👻</h1>
 
 - MVC란 무엇인가?
-- 
+
 https://qudgus1984.tistory.com/11
