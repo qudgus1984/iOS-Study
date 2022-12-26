@@ -39,6 +39,9 @@ https://qudgus1984.tistory.com/23
 
 https://qudgus1984.tistory.com/24
 
+- Method Dispatch란 무엇인가?
+
+https://qudgus1984.tistory.com/35
 
 <h1>아키텍쳐 👻</h1>
 
