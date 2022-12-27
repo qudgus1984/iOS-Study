@@ -51,6 +51,10 @@ https://qudgus1984.tistory.com/14
 
 https://qudgus1984.tistory.com/11
 
+- MVVM이란 무엇인가?
+
+https://qudgus1984.tistory.com/25
+
 <h1>iOS 🍎</h1>
 
 - COW란 무엇인가?
