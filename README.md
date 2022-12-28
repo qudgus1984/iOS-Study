@@ -45,6 +45,10 @@ https://qudgus1984.tistory.com/35
 
 https://qudgus1984.tistory.com/14
 
+- Diffable Datasource / Compositional Layout란 무엇인가?
+
+https://qudgus1984.tistory.com/31
+
 <h1>아키텍쳐 👻</h1>
 
 - MVC란 무엇인가?
