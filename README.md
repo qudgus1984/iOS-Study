@@ -53,6 +53,10 @@ https://qudgus1984.tistory.com/14
 
 https://qudgus1984.tistory.com/31
 
+- ViewController의 생명주기(Life Cycle)에 대해 알아보자!
+
+https://qudgus1984.tistory.com/38
+
 <h1>아키텍쳐 👻</h1>
 
 - MVC란 무엇인가?
