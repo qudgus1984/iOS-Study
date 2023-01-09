@@ -57,6 +57,10 @@ https://qudgus1984.tistory.com/31
 
 https://qudgus1984.tistory.com/38
 
+- 앱 생명주기에 대해 알아보자!
+
+https://qudgus1984.tistory.com/39
+
 <h1>아키텍쳐 👻</h1>
 
 - MVC란 무엇인가?
