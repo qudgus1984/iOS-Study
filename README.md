@@ -123,3 +123,7 @@ https://qudgus1984.tistory.com/20
 - HTTP란 무엇인가?
 
 https://qudgus1984.tistory.com/36
+
+- 메모리란 무엇인가?
+
+https://qudgus1984.tistory.com/40
